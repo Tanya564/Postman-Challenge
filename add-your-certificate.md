@@ -2432,3 +2432,4 @@
 | 2325 | Hetu Kariya| [Hetu Kariya](https://www.linkedin.com/in/hetu-kariya-20a999284/)| [Certificate Link](https://api.badgr.io/public/assertions/6s4zqfOrSrqTpe3C000yFw)| Great course to start with API, taught me a lot! Thank You! |
 | 2326 | Aparna Dixit| [Aparna Dixit](https://www.linkedin.com/in/aparna-dixit-54a843307/)| [Certificate Link](https://api.badgr.io/public/assertions/1J2mmT5CTlOqIOrdhXixiQ?identity__email=aparna06dixit%40gmail.com)| Useful course for beginners , taught me a lot! Thank You! |
 | 2327 | Yash Jain | [Yash Jain](https://www.linkedin.com/in/theyashjain0099/)| [Certificate Link](https://api.badgr.io/public/assertions/Kla6OeSKSMW33WETn2bWbg?identity__email=yashhjainofficial%40gmail.com)| begineer friendly course |
+|2328 | Tanya Khanna |[Tanya Khanna ] (https://www.linkedin.com/in/tanya-khanna-88417b20)|[Certificate Link](https://api.badgr.io/public/assertions/EYgAIRHVSVy_C1R0hspr0Q?identity__email=tanya.khanna.cse.2023%40miet.ac.in)
